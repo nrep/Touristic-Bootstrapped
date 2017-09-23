@@ -1,0 +1,20 @@
+body {
+  padding-top: 5rem;
+}
+
+.featurette-image {
+  height: 15rem;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.featurette-heading {
+  color: green;
+}
+
+#privacy-link,
+#terms-link {
+  color: grey;
+}

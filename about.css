@@ -1,0 +1,49 @@
+body {
+  padding-top: 1.5rem;
+}
+
+.nav-pills li a:hover {
+    background-color: green;
+    color: white;
+}
+
+#company-name-link,
+.nav-pills li a {
+    color: green;
+    text-decoration: none;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: .05rem solid #e5e5e5;
+  margin-bottom: 0px;
+}
+.jumbotron .btn {
+  padding: .75rem 1.5rem;
+  font-size: 1.5rem;
+}
+
+.jumbotron img {
+    height: 30%;
+    width: 20%;
+}
+
+.jumbotron .lead span {
+    color: green;
+    font-weight: bold;
+}
+
+.jumbotron .lead a {
+    text-decoration: none;
+}
+
+#privacy-link,
+#terms-link {
+  color: grey;
+  text-decoration: none;
+}
+
+.footer a {
+    text-decoration: none;
+}
